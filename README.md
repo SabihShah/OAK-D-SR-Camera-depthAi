@@ -28,4 +28,9 @@ DepthAI is the advanced depth sensing and AI processing platform that empowers d
   <img src="images/depthai.png" width="600" height="400">
 </div>
 
-See official documentation and github profile for details and code explainations
+See official documentation and github profile for details and code explanations
+https://github.com/luxonis/depthai
+
+```
+git clone --recursive https://github.com/luxonis/depthai.git
+```
