@@ -3,8 +3,8 @@
 OAK-D SR camera, a cutting-edge solution revolutionizing spatial perception and depth sensing. Designed to empower machines with human-like understanding of their environment, the OAK-D SR camera combines the power of stereo vision and artificial intelligence for unparalleled depth perception. With its advanced capabilities, it enables precise 3D mapping, object detection, and tracking, making it an ideal choice for applications in robotics, autonomous vehicles, augmented reality, and more. Whether navigating complex environments or interacting with the world around it, the OAK-D SR camera sets a new standard for spatial awareness and intelligence. For more information: https://docs.luxonis.com/projects/hardware/en/latest/pages/OAK-D-SR/
 
 <div style="display: flex; justify-content: center;">
-  <img src="images/camera.png" width='300' height='300'>
-  <img src="images/outline.png" width='400' height='300'>
+  <img src="images/camera.png" width='350' height='250'>
+  <img src="images/outline.png" width='450' height='250'>
 </div>
 
 
@@ -25,7 +25,7 @@ Overall, the OAK-D SR camera offers a powerful combination of stereo vision, AI 
 DepthAI is the advanced depth sensing and AI processing platform that empowers devices with human-like perception and intelligence. Developed by Luxonis, DepthAI combines cutting-edge depth sensing technology with onboard artificial intelligence to enable real-time spatial awareness, object detection, and depth mapping. With its compact form factor and customizable architecture, DepthAI offers developers a powerful solution for creating immersive augmented reality experiences, autonomous navigation systems, smart cameras, and more. Whether it's enhancing human-machine interaction or enabling autonomous decision-making, DepthAI sets a new standard for depth perception and AI processing in embedded systems. For more information: https://docs.luxonis.com/en/latest/
 
 <div align="center">
-  <img src="images/depthai.png" width="300" height="300">
+  <img src="images/depthai.png" width="600" height="400">
 </div>
 
 This repo contains the operations performed on this camera!
